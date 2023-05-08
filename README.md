@@ -30,4 +30,4 @@ The final model is saved in the file rfr_model.pkl.
 
 ## Contact
 
-If you have any questions or feedback, you can contact me at email@example.com.
+If you have any questions or feedback, you can contact me at abdelrahmanmahana01@gmail.com
